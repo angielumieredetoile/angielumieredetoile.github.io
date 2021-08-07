@@ -8,7 +8,7 @@ ul li {
 }
 .pricing-divider {
 border-radius: 20px;
-background: #C64545;
+background: #D9B770;
 padding: 1em 0 4em;
 position: relative;
 }
@@ -39,7 +39,7 @@ background: #1AA85C;
 	transition: transform 0.5s;
 }
 .btn-custom  {
-  background:#C64545; color:#fff; border-radius:20px
+  background:#D9B770; color:#fff; border-radius:20px
 }
 
 .img-float {
