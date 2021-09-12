@@ -10351,3 +10351,18 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+#scroll_to_top {
+  position: fixed;
+  width: 25px;
+  height: 25px;
+  bottom: 100px;
+  right: 30px;
+  transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg); 
+  -moz-transform: rotate(-90deg); 
+  -o-transform: rotate(-90deg); 
+}
+#scroll_to_top img {
+  width: 25px;
+}
