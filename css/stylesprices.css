@@ -42,6 +42,10 @@ background: #1AA85C;
   background:#D9B770; color:#fff; border-radius:20px
 }
 
+.btn-custom-1  {
+  background:#D9B770; color:#fff; border-radius:10px
+}
+
 .img-float {
   width:50px; position:absolute;top:-3.5rem;right:1rem
 }
