@@ -3952,7 +3952,7 @@ input[type=button].btn-block {
 
 .nav-link {
   display: block;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 0.5rem;
 }
 .nav-link:hover, .nav-link:focus {
   text-decoration: none;
@@ -10166,7 +10166,7 @@ body {
   }
   #mainNav .nav-link {
     transition: none;
-    padding: 2rem 1.5rem;
+    padding: 2rem 0.5rem;
     color: #fff;
   }
   #mainNav .nav-link:hover {
@@ -10183,7 +10183,7 @@ body {
   }
   #mainNav.navbar-shrink .nav-link {
     color: #000000;
-    padding: 1.5rem 1.5rem 1.25rem;
+    padding: 1rem 0.5rem 1.25rem;
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
